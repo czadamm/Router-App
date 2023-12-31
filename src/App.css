@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  background-color: black;
+}
+
+ul {
+  display: flex;
+  list-style: none;
+}
+
+li {
+  flex-grow: 1;
+}
+
+a {
+  display: block;
+  padding: 15px 20px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+a:hover {
+  background-color: dimgray;
+}
+
+h1 {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.home_selected {
+  background-color: red;
+}
+
+.news_selected {
+  background-color: orangered;
+}
+
+.contact_selected {
+  background-color: orange;
+}
