@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}nav{background-color:#000}ul{display:flex;list-style:none}li{flex-grow:1}a{color:#fff;cursor:pointer;display:block;padding:15px 20px;text-align:center;text-decoration:none;text-transform:uppercase;transition:.2s}a:hover{background-color:dimgray}h1{margin-top:20px;text-align:center}.home_selected{background-color:red}.news_selected{background-color:#ff4500}.contact_selected{background-color:orange}
+/*# sourceMappingURL=main.d5e279e1.css.map*/
